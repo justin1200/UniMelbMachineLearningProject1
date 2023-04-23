@@ -2,7 +2,6 @@
 README file for running code for Assignment 1
 ############################################################
 Student name: Justin Kelley
-Student ID: 997351
 Subject: COMP30027 (Machine Learning) (Semester 1, 2021)
 Assignment: Assignment 1
 Date created: 22/03/2021
